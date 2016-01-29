@@ -5,12 +5,12 @@ Plugin Structure
 
 Oxwall is one of the most simple platforms that uses MVC architectural pattern for implementing user interfaces. It helps web developers to manage the complex tasks and understand the web frameworks written in PHP.
 
-Oxwall plugins are developed basing on the MVC pattern which's principle is to separate the application into 3 main parts, known as the Model, the View, and the Controller - `MVC (Model View Controller) <https://ru.wikipedia.org/wiki/Model-View-Controller>`_. Below you can find the specific information about the MVC architectural pattern components and Oxwall plugin structure:
+Oxwall plugins are developed basing on the MVC pattern which's principle is to separate the application into 3 main parts, known as the Model, the View, and the Controller - `MVC (Model View Controller) <https://en.wikipedia.org/wiki/Model-View-Controller>`_. Below you can find the specific information about the MVC architectural pattern components and Oxwall plugin structure:
 
 Model
 --------------
 
-The Model handles the direct interaction with database or other data sources. Model mainly consists of queries to database and works on the data sending to database and retrieving it by converting it into a particular format. Oxwall uses `ORM programming technique <https://ru.wikipedia.org/wiki/ORM>`_. However, it also provides the possibility to write your own queries to database omitting ORM.
+The Model handles the direct interaction with database or other data sources. Model mainly consists of queries to database and works on the data sending to database and retrieving it by converting it into a particular format. Oxwall uses `ORM programming technique <https://en.wikipedia.org/wiki/ORM>`_. However, it also provides the possibility to write your own queries to database omitting ORM.
 
 View
 --------------------

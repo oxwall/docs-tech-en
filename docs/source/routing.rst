@@ -1,6 +1,6 @@
 .. _routing-label:
 
-Routing and controllers
+Routing and Controllers
 =======================
 
 in progress

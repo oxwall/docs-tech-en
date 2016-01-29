@@ -1,6 +1,6 @@
 .. _data-base-label:
 
-Database and models
+Database and Models
 ===================
 
 in progress
